@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="about-col-wrapper">
+  <div class="about-col about-col-1">
+
+    <img class="user-picture" src="../img/portrait2.jpg" alt="{{ site.author }}">
+    
+    <ul class="contact-list">
+     
+
+      {% if site.curriculum.url %}
+      <li>
+        {% include _icons/file.html curriculum=site.curriculum %}
+      </li>
+      {% endif %}
+    </ul>
+
+    <ul class="contact-list">
+      {% if site.author_website %}
+      <li>
+        {% include _icons/website.html url=site.author_website %}
+      </li>
+      {% endif %}
+    </ul>
+
+    {% include contactlist.html %}
+
+  </div>
+  <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
+
+    <div class="post-content" itemprop="articleBody">
+	<p></p>
+      {{ content }}
+    </div>
+
+  </article>
+</div>

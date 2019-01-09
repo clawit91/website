@@ -1,0 +1,46 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% assign i18n = site.data.academic_i18n %}
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+      <ul class="footer-col footer-col-1">
+
+
+        {% if site.description %}
+        <li class="justify">{% include _i18n/i18n.html value=site.description %}</li>
+        {% endif %}
+
+      </ul>
+
+      {% if site.pitch %}
+        <nav>
+        {% include nav_menu.html class="footer-col footer-col-2"%}
+        {% include contactlist.html class="single-col" %}
+        </nav>
+      {% else %}
+        {% include contactlist.html class="footer-col footer-col-2" %}
+      {% endif %}
+
+    <div class="bottom">
+	  
+	  <div class="tech">
+	  {{ site.data.academic_i18n.lastupdated[plang] }} {{ site.date }}. <br>
+        <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> | <a target="_blank" href="https://github.com/gaalcaras/academic">Academic</a>
+        {% if site.repo %}
+        + <a target="_blank" href="{{ site.repo }}">Source</a>
+        {% endif %}
+      </div>
+
+
+    </div>
+
+  </div>
+</footer>
+
+{% if page.layout == "post" %}
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+{% endif %}
+
