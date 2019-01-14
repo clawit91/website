@@ -4,10 +4,10 @@ $type-scale-large: (
   h1: 2.941rem,
   h2: 2.111rem,
   h3: 1.663rem,
-  h4: 1.333rem,
-  p: 1.25rem,
-  small: 1.15rem,
-  vsmall: 1rem,
+  h4: 1.333rem*0.9,
+  p: 1.25rem*0.9,
+  small: 1.15rem*0.9,
+  vsmall: 1rem*0.9,
 );
 
 $type-scale-medium: (
@@ -98,10 +98,10 @@ $grey-color-lighter: lighten($grey-color, 90%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
-$content-width:    700px;
+$content-width:    910px;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        1010px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
