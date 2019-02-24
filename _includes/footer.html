@@ -23,13 +23,15 @@
       {% endif %}
 
     <div class="bottom">
-	  
+
 	  <div class="tech">
 	  {{ site.data.academic_i18n.lastupdated[plang] }} {{ site.date }}. <br>
         <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> | <a target="_blank" href="https://github.com/gaalcaras/academic">Academic</a>
         {% if site.repo %}
         + <a target="_blank" href="{{ site.repo }}">Source</a>
         {% endif %}
+         <br>
+         <a class="page-link" href="../impressum/">Impressum</a>
       </div>
 
 
@@ -43,4 +45,3 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 {% endif %}
-
