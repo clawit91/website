@@ -2,77 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
 
+  
+
+  
+
+  
 
 
+ 
 
-
-
-
-
-
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/</loc>
   <changefreq>monthly</changefreq>
-
+    
     <priority>1.0</priority>
-
+  
 </url>
+  
 
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/about/</loc>
   <changefreq>monthly</changefreq>
-
+    
 </url>
+  
 
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/topics/</loc>
   <changefreq>monthly</changefreq>
-
+    
 </url>
+  
 
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/404/</loc>
   <changefreq>monthly</changefreq>
-
+    
 </url>
+  
 
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/cv/</loc>
   <changefreq>monthly</changefreq>
-
+    
 </url>
+  
 
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/contact/</loc>
   <changefreq>monthly</changefreq>
-
+    
 </url>
+  
 
-
-
+  
     <url>
   <loc>https://www.cwitkowski.de/impressum/</loc>
   <changefreq>monthly</changefreq>
-
+    
 </url>
+  
+
+  
+
+  
+    <url>
+  <loc>https://www.cwitkowski.de/topics/20190224</loc>
+  <changefreq>monthly</changefreq>
+    
+</url>
+  
+
+  
 
 
-
-
-
-
-
-
+	
 </urlset>
+
