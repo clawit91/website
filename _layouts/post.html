@@ -9,7 +9,7 @@ layout: default
   <header class="post-header">
   {% endif %}
     {% if page.thumbnail %}
-    <img class="post-thumbnail" src="/assets/{{ page.thumbnail }}" alt="{{ page.title | escape }}"/>
+    <img class="post-thumbnail" src="/assets/{{ page.thumbnail }}" alt="{{ page.title | escape }}" width="100%" />
     {% endif %}
     <div class="wrapper">
       <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -18,7 +18,7 @@ layout: default
           {% include _i18n/date.html date=page.date %}
         </time>
         {% include _i18n/last_modified_at.html object=page %}
-        {% if page.author %} • 
+        {% if page.author %} •
           <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
         {% endif %}
       </p>
@@ -29,8 +29,6 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {% include calltoaction.html %}
 
   {% if site.shortbio %}
   <div class="post-author">
