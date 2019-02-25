@@ -5,15 +5,21 @@ permalink: /topics/
 ---
 
 <p></p>
-<p class="justify"> Recognizing the need of eradicating poverty in all its dimensions, fighting risks of climate change, and ensuring that no one is left behind, I am highly dedicated to contribute to achieving the ambitious 2030 Agenda for Sustainable Development of the United Nations. To analyze and enable the highest impact of policies, programmes and initiatives, I have specialized in effective development cooperation, monitoring and evaluation of projects on the ground and innovative technology solutions with a focus on transformative South-led processes.
-</p>
+<p> Recognizing the need of eradicating poverty in all its dimensions, fighting risks of climate change, and ensuring that no one is left behind, I am highly dedicated to contribute to
+achieving the ambitious 2030 Agenda for Sustainable Development of the United Nations. To analyze and enable the highest impact of policies, programmes and initiatives, I have specialized in effective development cooperation,
+monitoring and evaluation of projects on the ground and innovative technology solutions with a focus on transformative South-led processes. </p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
 <!--
-
-* __Effective development cooperation__:
-
-* __Monitoring and evaluation__:
-
-* __Innovative technologies__:
 * Effective development cooperation: As a firm believer in the need of multilateralism, I am curious about effective development cooperation. How expertise lies in effective development **
 cooperation principles, South-South cooperation, global trends in Official Development Assistance. I have both research and policy experience in current trends and progress of development cooperation,
 including financial flows, South-South cooperation, and XXX.
