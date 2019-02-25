@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monitoring and evaluation"
-permalink: /topics/2019-02-24-monitoring-and-evaluation
+permalink: /blog/2019-02-24-monitoring-and-evaluation
 summary: "As a firm believer in the need of multilateralism, I am curious about effective development cooperation."
 
 ---

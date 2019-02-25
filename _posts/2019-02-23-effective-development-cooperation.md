@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Effective development cooperation"
-permalink: /topics/2019-02-23-effective-development-cooperation
+permalink: /blog/2019-02-23-effective-development-cooperation
 thumbnail: ../img/DSC01034.JPG
 summary: "Test test test."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Innovative technologies"
-permalink: /topics/2019-02-25-innovative-technologies
+permalink: /blog/2019-02-25-innovative-technologies
 thumbnail: ../img/Wires.jpg
 summary: "Test."
 ---
