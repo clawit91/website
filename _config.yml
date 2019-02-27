@@ -1,9 +1,9 @@
 #General settings
-date: "25/02/2019"
+date: "27/02/2019"
 title: Claudia Witkowski
 email: claudia.witkowski@mailbox.org
-description: Claudia Witkowski is an economist focusing on effective development cooperation and finance. 
-cc: "" 
+description: Claudia Witkowski is an economist focusing on effective development cooperation and finance.
+cc: ""
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -13,12 +13,12 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - ['README.md']
-url: "www.cwitkowski.de" 
+url: "www.cwitkowski.de"
 linkedin_username: claudiawitkowski
 markdown: kramdown
 remote_theme: academic
 
-  
+
 #Languages
 langs: ["en", "de"]
 defaults:
@@ -26,5 +26,3 @@ defaults:
       path: ""
     values:
       lang: "en"
-      
-      
