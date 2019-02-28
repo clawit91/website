@@ -18,7 +18,9 @@ linkedin_username: claudiawitkowski
 markdown: kramdown
 remote_theme: academic
 
-
+gems:
+  - jekyll-last-modified-at
+  
 #Languages
 langs: ["en", "de"]
 defaults:
