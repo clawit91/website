@@ -2,7 +2,7 @@
 layout: post
 title: "Financing for development is a constantly evolving concept"
 permalink: /blog/2019-03-06-development-finance-history
-thumbnail: ../img/20190305.jpg
+thumbnail: ../img/20190306.jpg
 summary: "<p style='text-align: justify;'>Financing for development is a well-known term in the international development cooperation community, firmly established in reports, manuals and briefs. Yet, the term was only coined in 2002 and some key areas evolved significantly since then. What is the history of the financing for development concept and what does it describe?</p>"
 ---
 
