@@ -993,6 +993,10 @@ form input {
 th {
   text-align: left; }
 
+.ul-blog {
+  width: 80%;
+  margin: auto; }
+
 .highlight .hll {
   background-color: #ffffcc; }
 
