@@ -8,20 +8,18 @@ permalink: /blog/
 
 <p class="justify"> Recognizing the need of eradicating poverty in all its dimensions, fighting risks of climate change, and ensuring that no one is left behind, I am highly dedicated to contributing to the achievement of the ambitious 2030 Agenda for Sustainable Development of the United Nations. This blog will provide opinions and ideas on effective development cooperation, monitoring and evaluation of projects and innovative technology solutions with a focus on transformative South-led processes. All views expressed are mine. Happy reading!</p>
 
-<ul>
-  {% for post in site.posts %}
-  <ul>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <b>{{ post.date | date_to_long_string }}</b>
+{% for post in site.posts %}
+<ul class="ul-blog">
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <b>{{ post.date | date_to_long_string }}</b>
 
-    <br>
+  <br>
 
-    <a href="{{ post.url }}"><img class="post-list"  src="{{ post.thumbnail }}" /></a>
+  <a href="{{ post.url }}"><img class="post-list"  src="{{ post.thumbnail }}" /></a>
 
-    <br>
+  <br>
 
-    <p>{{ post.summary }}</p>
+  <p>{{ post.summary }}</p>
 
-  </ul>
-  {% endfor %}
 </ul>
+{% endfor %}
