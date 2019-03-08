@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Financing for development is a constantly evolving concept"
-permalink: /blog/2019-03-06-development-finance-history
+permalink: /blog/2019-03-06-development-financing-history
 thumbnail: ../img/20190306.jpg
 summary: "<p style='text-align: justify;'>Financing for development is a well-known term in the international development cooperation community, firmly established in reports, manuals and briefs. Yet, the term was only coined in 2002 and certain key areas evolved since then. What is the history of the financing for development concept and what does it actually describe?</p>"
 ---
@@ -19,7 +19,7 @@ summary: "<p style='text-align: justify;'>Financing for development is a well-kn
 
 <p style='text-align: justify;'>Two years after the adoption of the Millennium Declaration, the United Nations took action. It organized the first conference on financing for development in Monterrey, Mexico, and thereby coined the term 'financing for development'. The conference brought together Member States, international finance institutions, civil society and the private sector to discuss the integration of and coalition with new stakeholders in the global financing architecture for development. They signees stress the following in the <a href="#ref2">Monterrey Consensus</a>:</p>
 
-<blockquote cite="https://www.huxley.net/bnw/four.html">
+<blockquote>
  <p style='text-align: justify;'>We the heads of State and Government, gathered in Monterrey, Mexico, on 21 and 22 March 2002, have resolved to address the challenges of financing for development around the world, particularly in developing countries. Our goal is to eradicate poverty, achieve sustained economic growth and promote sustainable development as we advance to a fully inclusive and equitable global economic system.</p>
 </blockquote>
 
@@ -63,7 +63,7 @@ summary: "<p style='text-align: justify;'>Financing for development is a well-kn
 ### Sources
 <font size="-1">
 <div id="ref1">Eckert, Andreas (2015). <i>Geschichte der Entwicklungszusammenarbeit</i>, in: Aus Politik und Zeitgeschichte 7-9/2015, pp. 3-8.</div>
-<div id="ref1">United Nations (2002). <i>Report of the International Conference on Financing for Development</i>, Monterrey, Mexico, 18-22 March 2002 (A/CONF.198/11, chapter 1, res. 1, annex).</div>
+<div id="ref2">United Nations (2002). <i>Report of the International Conference on Financing for Development</i>, Monterrey, Mexico, 18-22 March 2002 (A/CONF.198/11, chapter 1, res. 1, annex).</div>
 <div id="ref3">United Nations (2008). <i>Report of the Follow-up International Conference on Financing for Development</i>, Doha, Qatar, 29 November-2 December 2008 (A/CONF.212/L.1/Rev.1*).</div>
 <div id="ref4">United Nations (2015). <i>Report of the third International Conference on Financing for Development</i>, Addis Ababa, Ethiopia, 13-16 July 2015 (A/CONF.227/20, chapter 1, res. 1, annex).</div>
 </font>
