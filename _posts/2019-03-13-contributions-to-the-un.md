@@ -3,7 +3,7 @@ layout: post
 title:  "Unearmarked contributions to the UN system need to be increased"
 permalink: /blog/2019-03-13-contributions-to-un
 thumbnail: ../img/20190313.jpg
-summary: "<p style='text-align: justify;'>To fund the operational activities of the United Nations for development, Member States and non-governmental organizations provide regular and voluntary financial contributions. For a more effective service delivery on the ground, the current share of unearmarked contributions needs to be greatly stepped up.</p>"
+summary: "<p style='text-align: justify;'>To fund the operational activities of the United Nations for development, Member States and non-governmental organizations provide regular and voluntary financial contributions. For a more effective service delivery on the ground, the current share of unearmarked contributions needs to be stepped up.</p>"
 
 ---
 
@@ -26,17 +26,17 @@ summary: "<p style='text-align: justify;'>To fund the operational activities of 
 
 <img alt="Top Contibutors" style="float: right" src="../assets/fig2-top-contributors.png" width="400" hspace="10" vspace="10"/>
 
-<p style='text-align: justify;'><b>Observation 1:</b> There is a wide spread in financial contributions to the UN development system. It ranges from net beneficiaries (Venezuela; -0.17 million USD) to net contributors (United States of America; 6 million USD), reflecting current geopolitics and conflicts. .</p>
+<p style='text-align: justify;'><b>Observation 1:</b> There is a wide spread in financial contributions to the UN development system. It ranges from net beneficiaries (Venezuela; -0.17 million USD) to net contributors (USA; 6 million USD), reflecting current geopolitics and conflicts.</p>
 
 <p style='text-align: justify;'><b>Observation 2:</b> Core contributions are on average only one third of total contributions. Especially countries from smaller country settings (Tonga, Nauru, Suriname, Marshall Islands, Kiribati, Bahamas, San Marino) provide more than 95% in unearmarked contributions relative to total contributions.</p>
 
-<p style='text-align: justify;'><b>Observation 3:</b> Only two countries out of the top 10 net contributors have higher core than non-core shares (Sweden 56%, Netherlands 52%), while Brazil achieves the lowest rate of 8%. The United States of the America as the most important contributor in absolute terms provides 14% of its resources through core funding.</p>
+<p style='text-align: justify;'><b>Observation 3:</b> Only two countries out of the top 10 net contributors have higher core than non-core shares (Sweden 56%, Netherlands 52%), while Brazil achieves the lowest rate of 8%. The USA as the most important contributor in absolute terms provides 14% of its resources through core funding.</p>
 
-<p style='text-align: justify;'>For a more effective programme and service delivery of the UNDG at country level, the flexibility of contributions needs to be increased by switching from non-core to core resources. The top contributors such as the United States of America, Germany and the United Kingdom have a high leverage to achieve at least an equal share of unearmarked and earmarked financing. Let us see what the soon to be published data on 2017 will reveal.</p>
+<p style='text-align: justify;'>For a more effective programme and service delivery of the UNDG at country level, the flexibility of contributions needs to be increased by switching from non-core to core resources. The top contributors such as the USA, Germany and the United Kingdom have a high leverage to achieve at least an equal share of unearmarked and earmarked financing.</p>
 
 ## Digging deeper into the data in future posts
 
-<p style='text-align: justify;'>The publicly available data could be also used to get further insights into contributions at country level. First, contributions to the UN development system are displayed in absolute terms. Bigger economies of course have higher amounts at their hands to spend. Contributions in relative terms, e.g. pegged to a country's Gross National Product, could provide more detailed information on a country's commitment. Second, the current visualization doesn't differentiate between funding for longer-term development cooperation and humanitarian assistance activities that is delivered on short notice due to catastrophes, conflicts and crises. Third, tracking contributions over time might reveal further insights into regional priorities. These issues will be dissected in more detail in future posts.</p>
+<p style='text-align: justify;'>The publicly available data could be also used to get further insights into contributions at country level. First, funding to the UN development system is displayed in absolute terms. Contributions in relative terms, e.g. pegged to a country's Gross National Product, could provide more detailed information on a country's commitment. Second, the current visualization doesn't differentiate between funding for longer-term development cooperation and humanitarian assistance activities that are delivered on short notice due to catastrophes, conflicts and crises. Third, tracking contributions over time might reveal further insights into priorities. These issues will be dissected in more detail in future posts.</p>
 
 ### Sources
 <font size="-1">
