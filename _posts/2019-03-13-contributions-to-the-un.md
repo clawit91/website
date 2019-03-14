@@ -2,8 +2,8 @@
 layout: post
 title:  "Unearmarked contributions to the UN system need to be increased"
 permalink: /blog/2019-03-13-contributions-to-un
-thumbnail: ../img/20190313c.jpg
-summary: "<p style='text-align: justify;'>To fund the operational activities of the United Nations for development, Member States and non-governmental organizations provide regular and voluntary financial contributions. For a more effective service delivery on the ground, the current share of unearmarked contributions to be greatly stepped up.</p>"
+thumbnail: ../img/20190313.jpg
+summary: "<p style='text-align: justify;'>To fund the operational activities of the United Nations for development, Member States and non-governmental organizations provide regular and voluntary financial contributions. For a more effective service delivery on the ground, the current share of unearmarked contributions needs to be greatly stepped up.</p>"
 
 ---
 
@@ -13,7 +13,7 @@ summary: "<p style='text-align: justify;'>To fund the operational activities of 
 
 ## Core contributions are critical to effective development support
 
-<p style='text-align: justify;'>Financial resources can be classified as core or non-core contributions. Core funding provides the highest degree of flexibility to the UN entities as these unearmarked resources can be used in the most efficient way deemed by the respective UN entity. Non-core contribution in contrast might contribute to fragmentation. Ideally, contributions would therefore be solely composed of core contributions. In this post, we want to explore total and core contributions of UN Member States to the UNDG. To obtain individual country information, hover with the mouse over one country or search for the country on the upper left of the chart.</p>
+<p style='text-align: justify;'>Financial resources can be classified as core or non-core contributions. Core funding provides the highest degree of flexibility to the UN entities as these unearmarked resources can be managed by the respective UN entity on its own, in close coordination with other funds and programmes. Non-core contribution in contrast might lead to fragmentation or overlap. Ideally, contributions would therefore be solely composed of core contributions. In this post, we want to explore total and core contributions of UN Member States to the UNDG. Note that shares of contributions have been calculated in absolute terms to take into account negative values. To obtain individual country information, hover with the mouse over one country or search for the country on the upper left of the chart.</p>
 
 <div class='tableauPlaceholder' id='viz1552511193355' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;QC&#47;QCPRdata-bycountrylevel&#47;ContributionstoUNoperationalactivitiesfordevelopment&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='QCPRdata-bycountrylevel&#47;ContributionstoUNoperationalactivitiesfordevelopment' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;QC&#47;QCPRdata-bycountrylevel&#47;ContributionstoUNoperationalactivitiesfordevelopment&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' />
 </object></div>                
@@ -22,22 +22,31 @@ summary: "<p style='text-align: justify;'>To fund the operational activities of 
 
 ## Top UN contributors rely too heavily on non-core funding
 
-<img alt="Top Contibutors" style="float: right" src="../assets/fig2-top-contributors.png" width="350" hspace="10" vspace="10"/>
+<p style='text-align: justify;'>In 2016, a total of 21.34 million USD has been contributed to the UN development system by its Member States. But what story do the data tell us at the country level? There are three key observations:</p>
 
-<p style='text-align: justify;'>Which messages do we take from the map? There are three observations that one can make.</p>
+<img alt="Top Contibutors" style="float: right" src="../assets/fig2-top-contributors.png" width="400" hspace="10" vspace="10"/>
 
-<p style='text-align: justify;'>****Observation 1:**** There is a wide spread in financial contributions to the UN development system. The range spreads from net beneficiaries (Venezuela; -17,000 USD) to net contributors (United States of America; 6,000,000 USD), reflecting current geopolitical challenges. The average is 100,000 USD.</p>
-<p style='text-align: justify;'>****Observation 2:**** Core contributions are on average only one third of the total contributions. Especially countries from smaller country settings (Tonga, Nauru, Suriname, Marshall Islands, Kiribati, Bahamas, San Marino) provide more than 95% of unearmarked contributions.</p>
-<p style='text-align: justify;'>****Observation 3:**** Only two (Sweden, Netherlands) out of the top 10 net contributors have higher core than non-core shares. Brazil achieves the lowest rate of 8%. The United States of the America as the single-most important contributor provides 14% of its resources through core funding.</p>
+<p style='text-align: justify;'><b>Observation 1:</b> There is a wide spread in financial contributions to the UN development system. It ranges from net beneficiaries (Venezuela; -0.17 million USD) to net contributors (United States of America; 6 million USD), reflecting current geopolitics and conflicts. .</p>
 
-<!--<p style='text-align: justify;'>Conclusion and outlook.</p>-->
+<p style='text-align: justify;'><b>Observation 2:</b> Core contributions are on average only one third of total contributions. Especially countries from smaller country settings (Tonga, Nauru, Suriname, Marshall Islands, Kiribati, Bahamas, San Marino) provide more than 95% in unearmarked contributions relative to total contributions.</p>
+
+<p style='text-align: justify;'><b>Observation 3:</b> Only two countries out of the top 10 net contributors have higher core than non-core shares (Sweden 56%, Netherlands 52%), while Brazil achieves the lowest rate of 8%. The United States of the America as the most important contributor in absolute terms provides 14% of its resources through core funding.</p>
+
+<p style='text-align: justify;'>For a more effective programme and service delivery of the UNDG at country level, the flexibility of contributions needs to be increased by switching from non-core to core resources. The top contributors such as the United States of America, Germany and the United Kingdom have a high leverage to achieve at least an equal share of unearmarked and earmarked financing. Let us see what the soon to be published data on 2017 will reveal.</p>
+
+## Digging deeper into the data in future posts
+
+<p style='text-align: justify;'>The publicly available data could be also used to get further insights into contributions at country level. First, contributions to the UN development system are displayed in absolute terms. Bigger economies of course have higher amounts at their hands to spend. Contributions in relative terms, e.g. pegged to a country's Gross National Product, could provide more detailed information on a country's commitment. Second, the current visualization doesn't differentiate between funding for longer-term development cooperation and humanitarian assistance activities that is delivered on short notice due to catastrophes, conflicts and crises. Third, tracking contributions over time might reveal further insights into regional priorities. These issues will be dissected in more detail in future posts.</p>
 
 ### Sources
 <font size="-1">
 <!--<a href="#ref4">Addis Ababa Action Agenda</a>
 <div id="ref1">XXX</div>-->
-QCPR Report.
+<div>United Nations (2018). <i>Report of the Secretary-General on the implementation of General Assembly resolution 71/243 on the QCPR of operational activities for development of the UN system</i>, 19 January 2018, (<a href="http://www.un.org/ga/search/view_doc.asp?symbol=E/2018/8&referer=/english/&Lang=E" target="\_blank"><u>A/73/63-E/2018/8</u></a>).</div>
+
+<div>United Nations (2018). <i>Statistical annex on funding data of the report of the Secretary-General on the implementation of General Assembly resolution 71/243 on the QCPR of operational activities for development of the UN system</i>, (<a href="https://www.un.org/ecosoc/en/node/1158673" target="\_blank"><u>A/73/63-E/2018/8, statistical annex</u></a>).</div>
 </font>
+
 
 <!-- Interested to learn more about the history of development effectiveness and policy coherence? Stay tuned, more to come in subsequent posts. -->
 
@@ -51,5 +60,7 @@ The numerous United Nations programmes and funds (UNDP, UNFPA, UNEP, etc.) recei
 The Development System Reform process will mean significant changes to the setup, leadership, accountability mechanisms and capacities of the whole UN development system; ensuring it meets national needs. not only for implementing the SDGs, but also  in meeting the climate change commitments made through the 2015 Paris Agreement.
 
 More specifically, the reform gives Resident Coordinators – the most senior UN development officials at the country level – a dedicated, independent role in coordinating the activities of all the various UN entities working on behalf of people across the world locally, which make up UN Country Teams.
+
+<p style='text-align: justify;'><font size="-1"><em>Instruction: </em></font></p>
 
 With the reform, the functions of the Resident Coordinator are now separated from those of the resident representative of the UN Development Programme (UNDP).-->
