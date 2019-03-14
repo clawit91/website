@@ -28,9 +28,9 @@ summary: "<p style='text-align: justify;'>To fund the operational activities of 
 
 <p style='text-align: justify;'><b>Observation 1:</b> There is a wide spread in financial contributions to the UN development system. It ranges from net beneficiaries (Venezuela; -0.17 million USD) to net contributors (USA; 6 million USD), reflecting current geopolitics and conflicts.</p>
 
-<p style='text-align: justify;'><b>Observation 2:</b> Core contributions are on average only one third of total contributions. Especially countries from smaller country settings (Tonga, Nauru, Suriname, Marshall Islands, Kiribati, Bahamas, San Marino) provide more than 95% in unearmarked contributions relative to total contributions.</p>
+<p style='text-align: justify;'><b>Observation 2:</b> Core contributions are on average only one-third of total contributions. Especially countries from smaller country settings (Tonga, Nauru, Suriname, Marshall Islands, Kiribati, the Bahamas, San Marino) provide more than 95% in unearmarked contributions relative to total contributions.</p>
 
-<p style='text-align: justify;'><b>Observation 3:</b> Only two countries out of the top 10 net contributors have higher core than non-core shares (Sweden 56%, Netherlands 52%), while Brazil achieves the lowest rate of 8%. The USA as the most important contributor in absolute terms provides 14% of its resources through core funding.</p>
+<p style='text-align: justify;'><b>Observation 3:</b> Only two countries out of the top 10 net contributors have higher core than non-core shares (Sweden 56%, the Netherlands 52%), while Brazil achieves the lowest rate of 8%. The USA as the most important contributor in absolute terms provides 14% of its resources through core funding.</p>
 
 <p style='text-align: justify;'>For a more effective programme and service delivery of the UNDG at country level, the flexibility of contributions needs to be increased by switching from non-core to core resources. The top contributors such as the USA, Germany and the United Kingdom have a high leverage to achieve at least an equal share of unearmarked and earmarked financing.</p>
 
