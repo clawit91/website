@@ -11,7 +11,7 @@ summary: "<p style='text-align: justify;'>To fund the operational activities of 
 
 <p style='text-align: justify;'>The 2030 Agenda for Sustainable Development puts an even greater emphasis on development effectiveness, policy coherences and cooperation across all levels. This also demands greater action by the United Nations to deliver effective operational activities on the ground. First efforts were made when the United Nations Development Group (UNDG) was set up in 1997 to enhance the coordination of 32 UN agencies, funds and programmes at country level. The strategic objectives of the UNDG are re-defined every four years in the 'Quadrennial Comprehensive Policy Review' (QCPR), whereas progress achieved is tracked on an annual basis. As part of this yearly assessment, financial contributions of different stakeholders to the operational activities for development are analyzed. Data from 2013 to 2016 are publicly accessible and downloadable.</p>
 
-## Core contributions are critical to effective development support
+## Core contributions are critical for effective development support
 
 <p style='text-align: justify;'>Financial resources can be classified as core or non-core contributions. Core funding provides the highest degree of flexibility to the UN entities as these unearmarked resources can be managed by the respective UN entity on its own, in close coordination with other funds and programmes. Non-core contribution in contrast might lead to fragmentation or overlap. Ideally, contributions would therefore be solely composed of core contributions. In this post, we want to explore total and core contributions of UN Member States to the UNDG. Note that shares of contributions have been calculated in absolute terms to take into account negative values. To obtain individual country information, hover with the mouse over one country or search for the country on the upper left of the chart.</p>
 
@@ -20,7 +20,7 @@ summary: "<p style='text-align: justify;'>To fund the operational activities of 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1552511193355');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Top UN contributors rely too heavily on non-core funding
+## Top contributors rely too heavily on non-core funding
 
 <p style='text-align: justify;'>In 2016, a total of 21.34 million USD has been contributed to the UN development system by its Member States. But what story do the data tell us at the country level? There are three key observations:</p>
 
