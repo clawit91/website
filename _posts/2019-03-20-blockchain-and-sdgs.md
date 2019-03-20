@@ -13,8 +13,6 @@ summary: "<p style='text-align: justify;'>Blockchain has the power to redefine e
 
 <p style='text-align: justify;'>Amidst all the hype and activity surrounding blockchain, one cannot help but wonder whether blockchain can indeed be seen as a panacea for sustainable development and enable inclusive transformations, benefitting the most vulnerable. Based on the inputs of a distinguished panel with speakers from the United Nations, the private sector, academia and civil society, a spectrum of key benefits as well as challenges of blockchain technology has been highlighted.</p>
 
-<!-- -->
-
 <ul style="list-style-type:square;">
     <li><p style='text-align: justify;'><img alt="Monterrey Consensus" style="float: left" src="../assets/sdg16.png" width="50" hspace="5" vspace="1"/><b>SDG 16 - Peace, Justice and Strong Institutions:</b> Accessing services like healthcare, voting and education comes in lockstep with legal proof of identification – if you don’t have it you can’t participate. Considering that the birth of one out of four children remains unregistered, a blockchain-based identity system could allow people to handle governance services through uniquely assigned IDs. By making information resilient to corruption, blockchain could also help to transparently map the development cooperation supply chain and effectively target the furthest behind. The implementation of such IDs however might face barriers in regions with low levels of literacy, cell phone penetration and broadband connectivity. Open transparency might also not be welcome in all cases, as experiences from the field imply.</p></li>
 
@@ -37,8 +35,7 @@ As heavy centralization drives our global economy, a pyramid is created where th
 
 <!-- But solutions are already on the way: To make transaction verification processes of cryptocurrencies more sustainable, the tech community is, inter alia, increasingly shifting from Proof of Work mining to Proof of Stake forging. Moreover, companies are increasingly relying on renewable energy sources for mining -->
 
-<p style='text-align: justify;'>Beyond these use cases, blockchain can benefit many other SDGs. For instance, smart contracts can automate greenhouse gas certificate transactions, enforcing climate change accountability at a low-cost level. Furthermore, blockchain can provide an open, decentralized voting record to citizens, giving them the option to verify whether voter fraud has occurred. In addition, the technology’s characteristic of recording
-property transactions can also be harnessed to ensure more effective property management.</p>
+<p style='text-align: justify;'>Beyond these use cases, blockchain can benefit many other SDGs. For instance, smart contracts can automate greenhouse gas certificate transactions, enforcing climate change accountability at a low-cost level. Furthermore, blockchain can provide an open, decentralized voting record to citizens, giving them the option to verify whether voter fraud has occurred. In addition, the technology’s characteristic of recording property transactions can also be harnessed to ensure more effective property management.</p>
 
 ## Blockchain development is still in its Wild West phase
 
@@ -56,16 +53,9 @@ Many governance challenges remain unsettled and pitfalls loom around the corner.
 
 <p style='text-align: justify;'>To make blockchain work for the 2030 Agenda, the tech world, the private sector and the international development community thus have to find ways to leapfrog their core differences. On the one hand, development experts have to jump over their own shadow and embrace new approaches to their work. On the other hand, technology enthusiasts and social entrepreneurs ready to go beyond private-sector applications have to adequately address negative impacts and unintended consequences of their products. It will be imperative to understand blockchain’s capacities and to center use cases around recipient’s vulnerabilities and needs. For the development of such human-needs focused blockchain applications, multi-stakeholder cooperation will be vital. The capacity of all involved actors to understand each other and move into the same direction will be the judge of whether blockchain can deliver on the promises it holds for a more sustainable world.</p>
 
-
-
-
-
-
 ### Sources
 
 <font size="-1">
-<!--<a href="#ref4">Addis Ababa Action Agenda</a>
-<div id="ref1">XXX</div>-->
 <div>This post is based on a conference paper published at Stiftung Mercator: Eggler, S., Lehmann, A., Witkowski, C. (2018). <a href="https://www.stiftung-mercator.de/de/publikation/blockchain-new-avenues-for-the-sdgs/" target="\_blank"><u>Blockchain. New Avenues for the SDGS?</u></a>. January 19, 2018.</div>
 
 <p>
@@ -78,8 +68,3 @@ Many governance challenges remain unsettled and pitfalls loom around the corner.
 <div><a href="https://d1tn3vj7xz9fdh.cloudfront.net/s3fs-public/file_attachments/bp-reward-work-not-wealth-220118-en.pdf" target="\_blank"><u>Reward work, not wealth. 2018. Oxfam.</u></a>
 
 <div><a href="https://data.unicef.org/topic/child-protection/birth-registration/" target="\_blank"><u>Child protection. 2018. UNICEF</u></a>
-
-
-<!-- <img alt="Top Contibutors" style="float: right" src="../assets/fig2-top-contributors.png" width="400" hspace="10" vspace="10"/>
-
-<p style='text-align: justify;'><b>Observation 2:</b> </p> -->
