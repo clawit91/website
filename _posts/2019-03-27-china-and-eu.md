@@ -2,7 +2,7 @@
 layout: post
 title:  "Chinese Belt and Road Initiative: a threat for the unity of the EU?"
 permalink: /blog/2019-03-27-china-and-eu
-thumbnail: ../img/20190327.JPG
+thumbnail: ../img/20190327.jpg
 summary: "<p style='text-align: justify;'>For the past decades, China and European States signed mostly bilateral trade agreements. This week, Italy went one step further: as the first G7 country, it joined the Chinese “Belt and Road Initiative”. What exactly is this initiative and what does Italy's accession mean for the unity of the EU?</p>"
 
 ---
