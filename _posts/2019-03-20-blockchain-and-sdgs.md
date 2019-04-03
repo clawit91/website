@@ -4,7 +4,6 @@ title:  "5 SDGs that might be positively impacted by blockchain technology"
 permalink: /blog/2019-03-20-blockchain-and-sdgs
 thumbnail: ../img/20190320.jpg
 summary: "<p style='text-align: justify;'>Blockchain has the power to redefine essential aspects of our lives - from communication, financial and legal services to governmental functions. But what opportunities does it hold for the ambitious 17 SDGs, and what remains to be done to ensure a truly inclusive ecosystem, leaving no one behind?</p>"
-
 ---
 
 <p style='text-align: justify;'>The buzz term 'blockchain' is on everyone's lips - from technology enthusiasts over business people to international development experts - and transformative application cases are hotly debated. In an attempt to find facts among dreams and fears and separate the hype from the substance, I initiated and co-organized the CSP-Salon in 2018 in New York that provided a platform to debate the revolutionary potential of blockchain for the SDGs.</p>

@@ -4,7 +4,6 @@ title:  "Unearmarked contributions to the UN system need to be increased"
 permalink: /blog/2019-03-13-contributions-to-un
 thumbnail: ../img/20190313.jpg
 summary: "<p style='text-align: justify;'>To fund the operational activities of the United Nations for development, Member States and non-governmental organizations provide regular and voluntary financial contributions. For a more effective service delivery on the ground, the current share of unearmarked contributions needs to be stepped up.</p>"
-
 ---
 
 ## Increased effectiveness of UN operations on the ground
