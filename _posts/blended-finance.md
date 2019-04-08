@@ -6,27 +6,18 @@ thumbnail: ../img/20190403c.jpg
 summary: "Test."
 ---
 
-It is no new news that there is a financing gap in development cooperation. but shocking figures are now available in times of the 2030 Agenda for Sustainable Development. But call for innovative finance instruments have been in discussion since the UN Conferences in Monterrey (2002) and Doha (2008) at the latest, innovative instruments have been seen as part of Financing for Development (FfD). One particular often named instrument is blended finance. Where can it be group in the class of innovative instruments, what are its characteristics, and what are policy and implementing challenges?
+It is no new news that there is a financing gap in development cooperation. So the smartest heads are puttung their heads together to come up with ideas for innvative finance - acutally already in but shocking figures are now available in times of the 2030 Agenda for Sustainable Development. But call for innovative finance instruments have been in discussion since the UN Conferences in Monterrey (2002) and Doha (2008) at the latest, innovative instruments have been seen as part of Financing for Development (FfD). One particular often named instrument is blended finance. Where can it be group in the class of innovative instruments, what are its characteristics, and what are policy and implementing challenges?
+
+Blended finance?
 
 ## Innovative instruments, blended finance and structured funds
 
-There are three groups of innovative financing mechanisms that can be outlined along the scale and scope, and who pays how much (for an excellent introduction in German, see this )
+Blended finance is a part of innovative financing mechanisms where public funds are used to private capital. (other story: generating new revenues e.g. auctions of rights of use), these could be e.g. also traditoinal public private parternships. Often it means that blendinc concessional loans with interest rates cates (where states subsidies can be used to lower interest rates for developing countries), or loans/bonds with performance-linked payments (in bad years country pays less). Another way is just to structure risk. This is then called structured funds or securitisation.
 
-1) Generating new revenues (e.g. taxes, auctions of rights of use, additional market funds)
-2) using public funds as a catalyst for private capital, e.g.
+Where? often for refinancing (micro)financial institutions in partner countries, but only with a good local financial market
 
--	Public-private-partnerships
--	Using financial intermediaries
--	Blended Finance: mixing public and private money (and structured funds are one way)
--  risk assumption or guarantees by the state (= commercial pre-financing of the use of budget funds, e.g. in the health or agricultural sector)
+How?
 
-
-//////////////////
-How does blended finance work?
-*** blending/concessional loans through a mixture of public and private funds, e.g. interest rate cuts (state subsidies can be used to lower interest rates for developing countries, e.g. 4-10 times)
-*** loans/bonds with performance-linked payments (in bad years the country pays less)
-
-*** securitisation/structured funds (the risk is structured), often for refinancing (micro)financial institutions in partner countries, but only with a good local financial market
 - first loss/EK tranche (5%) (dimensioned in such a way that experience shows that it covers all expected loan defaults and still has a good safety cushion), donor countries with good ratings ???
 - mezzanine (15%), financial cooperation means, e.g. by kfw, EIB, IFC (WorldBank)…
 3rd Senior (80%), lower interest rates from private contributors
@@ -50,6 +41,40 @@ _ Working: minimizing risk of fallout based on public guarantees and crossborder
 •	Investors
 •	Structuring
 •	Legal form
+
+
+
+
+
+
+To reduce the shortfalls in funding for the achievement of the Sustainable Development Goals (SDGs), donor countries are being urged to make greater use of innovative financing mechanisms and instruments in development financing, which in addition to public funds increasingly includes the mobilisation of private resources.
+
+A major obstacle to private-sector investment in development-related projects in developing countries is the fact that these investments are often considered too risky. Every investment involves financial risk, but in developing and emerging countries, this is often seen as prohibitively high.
+
+At the same time, many of today’s political and economic challenges are global in nature. They cannot be addressed through ‘isolated solutions’, and instead require cooperation beyond national borders. This is true of, for example, the expansion of sustainable energy supply or better access to the capital market.
+
+In light of these challenges, structured funds are used in the field of development cooperation to mobilise private resources on a transnational basis for the purposes of development support. As part of cooperation with regions, structured funds are used in various regional and sectoral contexts and are considered to offer great potential for the financing of the SDGs.
+
+A key characteristic of structured funds is that losses are covered to a certain amount by public donors, thus mitigating the risk for private investors. This is intended to encourage private investors to invest more in development-related projects. Most structured funds are also supported by technical cooperation with a view to reducing capacity-related risks and ensuring compliance with environmental, social and governance standards.
+Goals of the evaluation
+
+The number of structured funds involving German development cooperation has risen steadily in recent years. Around EUR 800 million in German federal budgetary resources and around EUR 500 million in KfW funds are paid into these funds. However, very little is currently known about the impact of structured funds. The objectives of the evaluation are therefore as follows:
+
+- Position structured funds within the objectives of German development cooperation and analyse if fonds are a suitable finance intrument to reach the objectives
+
+- Analysis of the implementation of development principles (division of labour, donor harmonisation, strengthening of regional actors)
+
+- Analysis of the contribution to mobilising additional funds/sustainability of the financing structures
+
+- Analysis of the effects on portfolio quality and abilities to reach end-beneficiaries
+
+- Analysis of the effects on MSME development
+Methods
+
+The evaluation questions will be answered using a theory-based approach.
+
+Based on a mixed method approach, a combination of quasi-experimental design and qualitative case studies will be used to examine the development impact of structured funds. When combined, the quasi-experiments and qualitative comparative case studies can be used to identify causal links and thus explain why specific effects were observed.
+
 
 
 /////////////////////////////////////////////
@@ -88,18 +113,35 @@ Insgesamt konnte die KfW Entwicklungsbank von 2001 bis 2011 zusätzlich zu den S
 
 ## What are policy implications of blended finance?
 
-In view of the lack of definition and non-exisiting rules, there arise some policy immplications.
+In view of the lack of definition and non-exisiting rules, there arise some policy immplications, as indicated by the Development Cooperation Forum:
 
 Impact and dimensions: Check whether the goals are the same, as normally profit is 1-dimensonal, but SDGs are 3-dimensional, also ecological and social impact
 
-<p style='text-align: justify;'><b>Ensure that blended reaches those furthest behind:</b> It should not divert from: macro level (type and country): LDCs (7% of private finance in 2012-2015, in 2017 2% of FDI), Country-programmable aid (where countries have a share in saying what should be done) micro level: Social sectors</p>
+<p style='text-align: justify;'><b>Ensure that blended finance reaches those furthest behind:</b> It is imperative that LDCs should not be forgetten. From 2012-2015, only 7% went to LDCs. As well, should not only focus on infrastructure, but where appropriate, also social sectors.</p>
 
-Ensure accessibility and affordability of services: Private sector may lack incentives to do so...
-
-Link blended financing to existing structures: Local context (e.g. employment, local production chains // not creating monopolies // enable technology transfer,
+<p style='text-align: justify;'>Link blended financing to existing structures: Local context (e.g. employment, local production chains // not creating monopolies // enable technology transfer, but also means checking affordability and accessibility of services.</p>
 
 Further study, understand and evaluate impact on: Local economy // Social groups
 
 Check structuring of risk: is it good that way it is?
 
 Everyone is keen on doing it: Different sets of principles, e.g. OECD, G20, AAAA, Nairobi…
+
+
+
+### in Germany
+
+Within financial cooperation, such structured funds have enabled €3.60 of additional public funds and €4.80 of additional private capital to be mobilised for every euro from the federal budget contributed between 2005 and the end of 2010. https://www.bmz.de/en/issues/development-financing/innovative-development-financing-instruments/Mobilising-private-investors/index.html
+
+The monies from structured funds are usually used for private finance institutions in the cooperation countries. They enable these institutions to make loans to micro, small and medium enterprises (MSMEs) and private individuals. The public monies are not used up by the funds but are reused when the loans are repaid; this approach provides a revolving source of capital.
+
+
+https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Development-Research/2012-08-14_FE_IFD_EN.pdf
+
+Structured  funds  operate  in  a  similar  fashion  to   the   securities   described   above;   but   in   addition  to  providing  security  against  future  revenues,  these  structure  the  risk  as  well.  The overall risk is divided into tranches, each with  different  degrees  of  risk,  and  these  are  passed on to investors with varying risk appe-tites.   This   means   that,   ultimately,   private   capital  is  mobilised  to  finance  development  processes. In  development  cooperation,  this  instrument  is   often   used   when   refinancing   financialinstitutions   (including   microfinance   institu-tions)  in  partner  countries.  Hence  the  (micro)  loans   issued   by   local   financial   institutions   serve to secure the international loan granted to   the   finance   institution   itself.   In   simple   terms,  this  international  loan  is  divided  into  three  tranches:  the  “first  loss”  tranche,  the  “mezzanine” tranche and the “senior” tranche
+
+
+
+1) Investoren gehen auch in kleinere und riskantere Länder?
+2) viel mehr Länder, Banken und Kunden
+3) lokale Investoren werden erreicht

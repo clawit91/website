@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Radical change of approaches to development cooperation is needed"
-permalink: /blog/2019-02-27-dc-needs-to-undergo-drastic-change
-thumbnail: ../img/20190227.jpg
+permalink: /blog/2019-01-30-dc-needs-to-undergo-drastic-change
+thumbnail: ../img/20190130.jpg
 summary: "<p style='text-align: justify;'>We have eleven years left to implement the ambitious 2030 Agenda and to put our world back on a sustainable path that respects the boundaries of our planet, leaving no one behind. To achieve this challenging task, development cooperation needs to undergo a drastic change.</p>"
 ---
 
