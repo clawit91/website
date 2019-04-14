@@ -3,7 +3,7 @@ layout: post
 title: "Financing for development is a constantly evolving concept"
 permalink: /blog/2019-02-13-development-finance-history
 thumbnail: ../img/20190213.jpg
-summary: "<p style='text-align: justify;'>Financing for development is a well-known term in the international development cooperation community, firmly established in reports, manuals and briefs. Yet, the term was only coined in 2002 and certain key areas have evolved. What is the history of the financing for development concept and what does it actually describe?</p>"
+summary: "<p style='text-align: justify;'>Financing for development is a well-known term in the development cooperation community, firmly established in reports, manuals and briefs. Yet, the term was only coined in 2002 and certain key areas have evolved. What is the history of the financing for development concept and what does it actually describe?</p>"
 ---
 
 <p style='text-align: justify;'>Following the first decade after World War II, representatives from governments established a system of intergovernmental bodies and institutions - such as the United Nations - to sustain peace and foster global development. Initially primarily concerned with the reconstruction of post-war Europe, the focus of initiatives quickly shifted to developing countries in the Southern hemisphere <a href="#ref1">(Eckert 2015)</a>. Governments provided a mix of financial support (financial cooperation) and capacity-building measures (technical cooperation) to partner countries. Despite first efforts in putting developing countries on a sustainable growth path and reducing inequalities, poverty, corruption and health threats persisted.</p>
